@@ -10,7 +10,6 @@ I know HTML, CSS, JavaScript, C++, and SQL. I am developing myself in the web fi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=can1283&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=can1283&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=can1283&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=can1283&icon=8&color=6)](https://visitcount.itsvg.in)
