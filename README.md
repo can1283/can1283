@@ -1,8 +1,8 @@
 # 💫 About Me:
-🚩I know HTML, CSS, JavaScript, C++, and SQL.
-🎯I am developing myself in the web field and I aspire to become a full-stack developer.
-🌏My hobbies are exercising and reading articles related to my field.
-⭐Currently, I am enrolled in a 6-month software development support program prepared by Patika and Kodluyoruz.
+--🚩I know HTML, CSS, JavaScript, C++, and SQL.
+--🎯I am developing myself in the web field and I aspire to become a full-stack developer.
+--🌏My hobbies are exercising and reading articles related to my field.
+--⭐Currently, I am enrolled in a 6-month software development support program prepared by Patika and Kodluyoruz.
 
 
 ## 🌐 Socials:
