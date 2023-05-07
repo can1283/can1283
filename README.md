@@ -1,4 +1,4 @@
-# Hello, this is **Nurican Kaşıkcı**  
+### Hello, this is **Nurican Kaşıkcı**  
 <br>
 I am currently honing my skills in the field of **web development** with the aspiration of becoming a **full-stack developer**. Simultaneously, I am pursuing an associate degree in computer programming. Additionally, I am actively participating in a 6-month software development support program provided by [Patika](https://www.patika.dev/tr) and [Kodluyoruz](https://kodluyoruz.org/).  
 <br>
