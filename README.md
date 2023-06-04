@@ -1,10 +1,7 @@
 ### Hello, this is **Nurican Kaşıkcı**  
-<div style = "display:flex; align-items:center; justify-content: space-between;">
-  <p style="width:200px;">I am currently honing my skills in the field of **web development** with the aspiration of becoming a **full-stack developer**. Simultaneously, I am pursuing an associate degree in computer programming. Additionally, I am actively participating in a 6-month software development support program provided by <a href = "https://www.patika.dev/tr">Patika</a> and <a href = "https://kodluyoruz.org/">Kodluyoruz</a>.
-  </p>
-    <img src = "https://user-images.githubusercontent.com/112473835/236685307-5fd7cf60-28bd-4ec9-a2f8-4782932f7d7a.gif" alt = "Cat.gif">
-</div>
-
+I am currently honing my skills in the field of **web development** with the aspiration of becoming a **full-stack developer**. Simultaneously, I am pursuing an associate degree in computer programming. Additionally, I am actively participating in a 6-month software development support program provided by [Patika](https://www.patika.dev/tr) and [Kodluyoruz](https://kodluyoruz.org/).
+</br>
+![Cat](https://user-images.githubusercontent.com/112473835/236685307-5fd7cf60-28bd-4ec9-a2f8-4782932f7d7a.gif)
 ## 🌏 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CN9HEXDD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurican-kaşıkcı-b2b680252) 
 
