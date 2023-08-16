@@ -17,7 +17,7 @@ I am currently honing my skills in the field of web development with the aspirat
   <br>
  <div align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=can1283&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&text_color=dracula" alt="ABSphreak's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=can1283&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&text_color=dark" alt="ABSphreak's Github Stats">
   </div>
 <br>
 </td>
