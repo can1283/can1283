@@ -19,4 +19,8 @@ I am currently honing my skills in the field of web development with the aspirat
 <br>
 </td>
 </tr>
+
+  <div align="center" align="center" src="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">
+    <img />
+  </div>
 </table>
