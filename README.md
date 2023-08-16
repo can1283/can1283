@@ -3,18 +3,6 @@ I am currently honing my skills in the field of web development with the aspirat
 <table align="center">
 <tr>
   <td>
-   <h3 align="center">Connect with me:</h3>
-   <p align="center">
-   <a href="">
-   <a href="https://www.linkedin.com/in/nuricankasikci/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can1283" height="30" width="40"/>
-   </a>
-</p>
-  </td>
-</tr>
-
-<tr>
-  <td>
     <h3 align="center">Languages and Tools:</h3>
     <p align="center">
      <a href="#">
