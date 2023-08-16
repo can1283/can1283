@@ -11,22 +11,9 @@ I am currently honing my skills in the field of web development with the aspirat
     </p>
   </td>
 </tr>
-
-<tr>
- <td>
-  <br>
- <div align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=can1283&theme=dark&show_icons=true&hide_border=true&count_private=true&text_color=orange" alt="ABSphreak's Github Stats">
-  </div>
-<br>
-</td>
-</tr>
-<tr>
 <td>
 <br>
 <div align="center">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=can1283&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="ABSphreak's Github Stats">
 </div>
 <br>
